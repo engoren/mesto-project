@@ -1,12 +1,6 @@
-.header__logo {
-  width: 100%;
-  max-width: 142px;
-  margin: 0;
-  padding: 0;
-}
-
-@media screen and (max-width: 767px) {
-  .header__logo {
-    max-width: 104px;
-  }
+@media screen and (max-width: 619px) {
+    .header__logo {
+        margin-left: 27px;
+        width: 104px;
+    }
 }

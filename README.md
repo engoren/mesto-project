@@ -13,7 +13,7 @@
 * Grid Layout 
 * Методология БЭМ
 * Nested БЭМ
-
+* JavaScript
 
 **Figma**
 
